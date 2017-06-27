@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Burak Ozmucur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2"
+  }
+}
